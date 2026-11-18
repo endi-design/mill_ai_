@@ -1,0 +1,5 @@
+difficulty,iterations,total_wins,total_draws,total_moves,average_thinking_seconds
+easy,50,2,0,1509,0.036874
+medium,100,27,0,1551,0.074395
+hard,500,52,0,1454,0.392942
+insanity,1000,69,0,1430,0.772687

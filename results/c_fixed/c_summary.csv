@@ -1,0 +1,6 @@
+study,C,difficulty,iterations,opponent,games,wins,losses,draws,win_rate_percent,score_rate_percent,average_ms_per_decision,average_max_tree_depth,decisions
+fixed,0.3,candidate,100,C=1.4,10,6,4,0,60.0,60.0,225.326,0.0,184
+fixed,0.7,candidate,100,C=1.4,10,6,4,0,60.0,60.0,275.609,0.0,221
+fixed,1.4,candidate,100,C=1.4,10,4,6,0,40.0,40.0,202.327,0.0,202
+fixed,2.0,candidate,100,C=1.4,10,4,6,0,40.0,40.0,208.298,0.0,213
+fixed,3.0,candidate,100,C=1.4,10,5,5,0,50.0,50.0,228.942,0.0,231

@@ -1,0 +1,7 @@
+matchup,level_a,level_b,level_a_wins,level_b_wins,draws
+easy_vs_medium,easy,medium,2,23,0
+easy_vs_hard,easy,hard,0,25,0
+easy_vs_insanity,easy,insanity,0,25,0
+medium_vs_hard,medium,hard,4,21,0
+medium_vs_insanity,medium,insanity,0,25,0
+hard_vs_insanity,hard,insanity,6,19,0

@@ -1,0 +1,3 @@
+# Install using: python -m pip install -r requirements.txt
+matplotlib>=3.7
+famnit_gym @ git+https://github.com/DomenSoberlFamnit/famnit-gym.git
