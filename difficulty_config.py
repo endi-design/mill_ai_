@@ -15,25 +15,25 @@ To add a new named level, copy one whole entry with all four fields.
 
 DIFFICULTIES = {
     "easy": {
-        "iterations": 50,
+        "iterations": 100,
         "c_study": 3.0,
         "random_move_probability": 0.35,
         "time_budget_seconds": 0.02,
     },
     "medium": {
-        "iterations": 100,
+        "iterations": 500,
         "c_study": 1.4,
         "random_move_probability": 0.10,
         "time_budget_seconds": 0.09,
     },
     "hard": {
-        "iterations": 500,
+        "iterations": 1000,
         "c_study": 0.3,
         "random_move_probability": 0.00,
         "time_budget_seconds": 0.18,
     },
      "insanity": {
-        "iterations": 1000,
+        "iterations": 5000,
         "c_study": 1.4,
          "random_move_probability": 0.00,
          "time_budget_seconds": 0.60,
